@@ -1,5 +1,5 @@
 {
-  "name": "demo-spotify",
+  "name": "saceds",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
